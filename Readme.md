@@ -2,7 +2,7 @@
 
 An unofficial backup of the [OSReP texture pack](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/2119572-32x-osrep-open-source-resource-pack) for Minecraft, because all its links are dead, it doesn't seem to have been archived, and resource packs that have open licences are the ones worth preserving.
 
-(this version was extracted out of the git history of [opencraft](https://github.com/GwenNelson/opencraft))
+This version was extracted out of the git history of [opencraft](https://github.com/GwenNelson/opencraft), the screenshots and resource pack compilation are by [Levi Kornelsen](https://www.minecraftforum.net/members/Levi_Kornelsen).
 
 ## Licence
 
@@ -17,5 +17,4 @@ In summary:
  ![OSReP_1](OSReP_4.webp)
  ![OSReP_1](OSReP_1.webp)
  ![OSReP_1](OSReP_3.webp)
- 
  
